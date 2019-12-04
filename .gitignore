@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+application/cache/*
+application/logs/*
+composer.lock
+user_guide
